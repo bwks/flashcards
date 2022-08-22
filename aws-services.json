@@ -2,9 +2,9 @@
   {
     "category": "compute",
     "service": "ec2",
+    "title": "Elastic Compute Cloud",
+    "description": "Secure and resizable compute capacity for virtually any workload.",
     "category-icon-link": "./img/aws/compute/compute.svg",
-    "service-icon-link": "./img/aws/compute/ec2.svg",
-    "title": "Elastic Compute Cloud (EC2)",
-    "description": ""
+    "service-icon-link": "./img/aws/compute/ec2.svg"
   }
 ]
