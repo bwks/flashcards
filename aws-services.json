@@ -1,9 +1,10 @@
 [
   {
-    "name": "Elastic Compute Cloud (EC2)",
-    "sub-heading": "",
-    "description": "",
     "category": "compute",
-    "icon-link": "./img/aws/compute/ec2.svg"
+    "service": "ec2",
+    "category-icon-link": "./img/aws/compute/compute.svg",
+    "service-icon-link": "./img/aws/compute/ec2.svg",
+    "title": "Elastic Compute Cloud (EC2)",
+    "description": ""
   }
 ]
